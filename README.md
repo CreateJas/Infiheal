@@ -1,6 +1,7 @@
 # Mental Health Chatbot Project
 
-## About Us
+## About the project
+
 This project is a FastAPI-based mental health chatbot designed to provide empathetic responses and relevant article suggestions based on user queries. The chatbot uses machine learning models for classification and retrieval-augmented generation (RAG) techniques to enhance the user experience.
 
 ## Technologies Used and Their Roles
