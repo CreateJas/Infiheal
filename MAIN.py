@@ -23,7 +23,7 @@ app = FastAPI()
 class CombinedInput(BaseModel):
     text: str
 
-# Load data for RAG
+
 json_filepath = r'C:\JAS\Infiheal_main\combined_articles_summaries.json'
 csv_filepath = r'C:\JAS\Infiheal\mentalhealth (1).csv'
 classification_csv_filepath = r'C:\JAS\Infiheal\Combined Data.csv'
